@@ -1,0 +1,10 @@
+name: moabb
+channels:
+  - defaults
+dependencies:
+  - python
+  - pip
+  - pytorch
+  - ipykernel
+  - pip:
+    - moabb
